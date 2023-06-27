@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e79703c7-55e3-4600-b94f-95f1dac99346" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Squad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ip2cipher/ip2cipher/src/main/java/com/rayray/utilities/validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ip2cipher/ip2cipher/src/main/java/com/rayray/utilities/validator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/rkinyua/Desktop/RACHEAL_MORINGA/capstone",
+    "last_opened_file_path": "C:/Users/rkinyua/Desktop/RACHEAL_MORINGA/herosquad",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
